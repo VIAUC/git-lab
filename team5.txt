@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Paragraph1
+=======
 alex paragraph
 
+>>>>>>> 4d677dcddca694ddc63fcf42e0a53fcdb717291a
